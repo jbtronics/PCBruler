@@ -1,0 +1,17 @@
+(module Bottle_Opener (layer F.Cu) (tedit 59403488)
+  (fp_text reference REF** (at -1.1 -4.625) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value BottleOpe (at -1.1 -5.625) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_arc (start 82.984319 -46.000282) (end -6.121308 9.544179) (angle -2.776831785) (layer Edge.Cuts) (width 0.1))
+  (fp_arc (start -2.914781 13.511015) (end -3.32578 13.795761) (angle -100.6854204) (layer Edge.Cuts) (width 0.1))
+  (fp_line (start -2.558768 13.862093) (end -0.405519 11.678566) (layer Edge.Cuts) (width 0.1))
+  (fp_arc (start -0.227512 11.854105) (end 0.021806 11.872548) (angle -139.6305425) (layer Edge.Cuts) (width 0.1))
+  (fp_arc (start -0.231719 0.031228) (end -0.407256 0.209235) (angle -138.9888323) (layer Edge.Cuts) (width 0.1))
+  (fp_line (start -0.407256 0.209235) (end -2.141269 -1.500734) (layer Edge.Cuts) (width 0.1))
+  (fp_arc (start -2.843423 -0.788708) (end -2.141269 -1.500734) (angle -84.73619073) (layer Edge.Cuts) (width 0.1))
+  (fp_arc (start 2.960594 6.089766) (end -3.488029 -1.553222) (angle -53.86510308) (layer Edge.Cuts) (width 0.1))
+  (fp_arc (start -1.029564 6.3702) (end -7.014797 6.790892) (angle -27.91706968) (layer Edge.Cuts) (width 0.1))
+)

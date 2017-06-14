@@ -1,0 +1,51 @@
+Cmp-Mod V01 Created by PcbNew   date = 13.06.2017 18:19:24
+
+BeginCmp
+TimeStamp = 59412E74
+Path = 
+Reference = REF**;
+ValeurCmp = Metric_Ruler_90mm;
+IdModule  = PCBRulers:Metric_Ruler_90mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59412B4C
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_4mm;
+IdModule  = Mounting_Holes:MountingHole_4mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5941178F
+Path = 
+Reference = REF**;
+ValeurCmp = Voltage Divider;
+IdModule  = PCBRulers:Voltage_Divider;
+EndCmp
+
+BeginCmp
+TimeStamp = 5940FD6E
+Path = 
+Reference = REF**;
+ValeurCmp = Inch_Ruler_3.5in_10;
+IdModule  = PCBRulers:Inch_Ruler_3.5in_10;
+EndCmp
+
+BeginCmp
+TimeStamp = 5940D0D0
+Path = 
+Reference = REF**;
+ValeurCmp = Resistor_Table_small;
+IdModule  = PCBRulers:Resistor_Table_small;
+EndCmp
+
+BeginCmp
+TimeStamp = 5940C68A
+Path = 
+Reference = REF**;
+ValeurCmp = Metric_Ruler_90mm;
+IdModule  = PCBRulers:Metric_Ruler_90mm;
+EndCmp
+
+EndListe

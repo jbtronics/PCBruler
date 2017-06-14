@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PCBRulers)(type KiCad)(uri ${KIPRJMOD}/Footprints.pretty)(options "")(descr ""))
+)
