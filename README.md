@@ -20,3 +20,8 @@ Also this ruler helps you, when you want to create a PCB, because you can see di
 * 5mm hole for keychain attachment or easy attachment on wall hooks.
 * Bottle opener
 * Licensed und Creative Commons BY 4.0
+
+
+## Images:
+![Showcase1](https://raw.githubusercontent.com/jbtronics/PCBruler/master/export/pics/showcase1.png)
+![Showcase2](https://raw.githubusercontent.com/jbtronics/PCBruler/master/export/pics/showcase2.png)
