@@ -1,4 +1,4 @@
-# PCBruler
+# PCBrulerS
 
 A small (100x32mm / 3.94x1,26in) PCB ruler made in KiCAD. 
 It has a millimeter, a 1/8 and a 1/10 inch ruler, furthermore a protractor (for roughly angle measuring).
